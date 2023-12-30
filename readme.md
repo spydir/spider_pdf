@@ -1,5 +1,3 @@
-Certainly! Here's a sample `README.md` file for your Python script using the MIT License:
-
 ```markdown
 # PDF Spider and Downloader
 
